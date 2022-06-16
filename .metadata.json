@@ -1,0 +1,18 @@
+[
+  {
+    "package": "concreg",
+    "oncran": true
+  },
+  {
+    "package": "coxphf",
+    "oncran": true
+  },
+  {
+    "package": "logistf",
+    "oncran": true
+  },
+  {
+    "package": "mfp",
+    "oncran": true
+  }
+]
