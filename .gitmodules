@@ -13,3 +13,13 @@
 	url = https://github.com/georgheinze/coxphf
 	shallow = true
 	registered = true
+[submodule "logistf"]
+	path = logistf
+	url = https://github.com/georgheinze/logistf
+	shallow = true
+	registered = true
+[submodule "mfp"]
+	path = mfp
+	url = https://github.com/georgheinze/mfp
+	shallow = true
+	registered = true
