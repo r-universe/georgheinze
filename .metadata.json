@@ -1,6 +1,6 @@
 [
   {
-    "package": "concreg",
+    "package": "logistf",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "logistf",
+    "package": "concreg",
     "oncran": true
   },
   {
