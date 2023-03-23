@@ -23,3 +23,8 @@
 	url = https://github.com/georgheinze/mfp
 	shallow = true
 	registered = true
+[submodule "SurvCorr"]
+	path = SurvCorr
+	url = https://github.com/cran/SurvCorr
+	shallow = true
+	registered = true
