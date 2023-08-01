@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SurvCorr"]
+	path = SurvCorr
+	url = https://github.com/cran/SurvCorr
 [submodule "concreg"]
 	path = concreg
 	url = https://github.com/georgheinze/concreg
@@ -14,6 +17,3 @@
 [submodule "mfp"]
 	path = mfp
 	url = https://github.com/georgheinze/mfp
-[submodule "SurvCorr"]
-	path = SurvCorr
-	url = https://github.com/cran/SurvCorr
