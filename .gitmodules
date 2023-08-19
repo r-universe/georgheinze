@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "SurvCorr"]
 	path = SurvCorr
-	url = https://github.com/cran/SurvCorr
+	url = https://github.com/georgheinze/survcorr
 [submodule "concreg"]
 	path = concreg
 	url = https://github.com/georgheinze/concreg
